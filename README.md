@@ -1,4 +1,11 @@
-# google_keep
+# Google Keep Clone App UI
+
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube Part I](https://youtu.be/__pLy7sDXtM)
+- [Watch on youtube Part II](https://youtu.be/noCfTltaDXc)
+
+![App UI](https://user-images.githubusercontent.com/16510597/104329030-0b7caf80-551f-11eb-8010-4fc2687fdde1.jpg)
 
 A new Flutter project.
 
