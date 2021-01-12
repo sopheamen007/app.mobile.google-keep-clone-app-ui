@@ -1,4 +1,4 @@
-# Google Keep Clone App UI
+# Google Keep Clone
 
 
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
